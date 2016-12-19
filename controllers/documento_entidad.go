@@ -1,7 +1,7 @@
 package controllers
 
 import (
-	"Polux_API/models"
+	"github.com/mafeave/Polux_API/models"
 	"encoding/json"
 	"errors"
 	"strconv"
